@@ -1,0 +1,13 @@
+C:\Users\musta\source\repos\movies\movies\bin\Debug\movies.exe.config
+C:\Users\musta\source\repos\movies\movies\bin\Debug\movies.exe
+C:\Users\musta\source\repos\movies\movies\bin\Debug\movies.pdb
+C:\Users\musta\source\repos\movies\movies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\musta\source\repos\movies\movies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.frm_movies.resources
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.Properties.Resources.resources
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.csproj.CopyComplete
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.exe
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.pdb
+C:\Users\musta\source\repos\movies\movies\obj\Debug\movies.usr_movie.resources
